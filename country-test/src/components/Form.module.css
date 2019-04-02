@@ -1,0 +1,10 @@
+.inputform {
+  width: 50%;  
+}
+
+.formcontainer {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
